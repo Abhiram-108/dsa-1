@@ -1,0 +1,8 @@
+rice 100
+brinjal 55
+carrot 20
+onion 500
+egg 85
+capsgum 90
+noodle 120
+maggie 1

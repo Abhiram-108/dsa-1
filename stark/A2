@@ -1,0 +1,7 @@
+#include<string.h>
+int password(int id,char password[]){
+    char *passkey[]={"sec-r","cprjt","plot"};
+    int k=0;
+  if(!strcmp(password,passkey[id-1])) k=1;
+  return k;
+}
